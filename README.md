@@ -22,6 +22,12 @@ Atualmente, busco oportunidades na área de Tecnologia da Informação onde eu p
 ---
 
 ## Contato
-- Email: antoniope1017@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/antonio-henrique-7747b4312
-- Instagram: https://www.instagram.com/antoniope1017/
+<a href="mailto:antoniope1017@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/antonio-henrique-7747b4312">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/antoniope1017/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
